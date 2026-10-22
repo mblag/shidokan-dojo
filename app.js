@@ -68,8 +68,7 @@ const lists = {
     ],
     schedule: [
       { day: "\u0412\u0442\u043e\u0440\u043d\u0438\u043a", jp: "\u706b", time: "20:00 \u2013 21:00", class: "\u0412\u044a\u0437\u0440\u0430\u0441\u0442\u043d\u0438 \u00b7 \u0432\u0441\u0438\u0447\u043a\u0438 \u043d\u0438\u0432\u0430" },
-      { day: "\u041f\u0435\u0442\u044a\u043a", jp: "\u91d1", time: "19:30 \u2013 20:30", class: "\u0412\u044a\u0437\u0440\u0430\u0441\u0442\u043d\u0438 \u00b7 \u0432\u0441\u0438\u0447\u043a\u0438 \u043d\u0438\u0432\u0430" },
-      { day: "\u0421\u044a\u0431\u043e\u0442\u0430", jp: "\u571f", time: "09:00 \u2013 12:00", class: "\u0412\u044a\u0437\u0440\u0430\u0441\u0442\u043d\u0438 \u00b7 \u0432\u0441\u0438\u0447\u043a\u0438 \u043d\u0438\u0432\u0430" },
+      { day: "\u0447\u0435\u0442\u0432\u044a\u0440\u0442\u044a\u043a", jp: "\u91d1", time: "20:00 \u2013 21:010", class: "\u0412\u044a\u0437\u0440\u0430\u0441\u0442\u043d\u0438 \u00b7 \u0432\u0441\u0438\u0447\u043a\u0438 \u043d\u0438\u0432\u0430" },
     ],
   },
   en: {
@@ -90,8 +89,7 @@ const lists = {
     ],
     schedule: [
       { day: "Tuesday", jp: "\u706b", time: "20:00 \u2013 21:00", class: "Adults \u00b7 all levels" },
-      { day: "Friday", jp: "\u91d1", time: "19:30 \u2013 20:30", class: "Adults \u00b7 all levels" },
-      { day: "Saturday", jp: "\u571f", time: "09:00 \u2013 12:00", class: "Adults \u00b7 all levels" },
+      { day: "Thursday", jp: "\u91d1", time: "20:00 \u2013 21:00", class: "Adults \u00b7 all levels" },
     ],
   },
 };
